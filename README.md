@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🦆 I enjoy working on projects that involve embeddded systems, AI, networking, and cybersecurity (or a combination of all).
+- 🏫 I am currently pursuing a BS and MS in Computer Engineering.
+- 📫 How to reach me: Linkedin (linked under profile) is the fastest way to contact me.
 <!--
 **mattbriggs04/mattbriggs04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
