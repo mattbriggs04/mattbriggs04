@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🦆 I enjoy working on projects that involve embeddded systems, AI, networking, and cybersecurity (or a combination of all).
+- 🦆 I enjoy working on projects that involve embeddded systems, AI, networking, and or cybersecurity (the more the merrier).
 - 🏫 I am currently pursuing a BS and MS in Computer Engineering.
 - 📫 How to reach me: Linkedin (linked under profile) is the fastest way to contact me.
 <!--
