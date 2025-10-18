@@ -4,7 +4,6 @@
 - 🏫 I am currently pursuing a BS and MS in Computer Engineering.
 - 📫 [Linkedin](https://www.linkedin.com/in/matthewbriggs04/) is the fastest way to contact me.
 
-🔭 I’m currently working on an IOT project which uses a custom IOS app built in Swift to send commands and audio over bluetooth to an ESP32 device which controls individually addressable LEDs.
 <!--
 **mattbriggs04/mattbriggs04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
