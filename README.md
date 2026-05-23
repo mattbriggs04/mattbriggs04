@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🦆 I enjoy working on projects that involve embeddded systems, AI, networking, and/or cybersecurity (the more the merrier).
-- 🏫 I am currently pursuing a BS and MS in Computer Engineering.
+- 🏫 I am currently pursuing an MS in Computer Engineering.
 - 📫 [Linkedin](https://www.linkedin.com/in/matthewbriggs04/) is the fastest way to contact me.
 
 <!--
